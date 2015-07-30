@@ -69,3 +69,11 @@ svg {
 .service-box i {
   font-size: 3em;
 }
+
+.terminal {
+  text-align: left;
+}
+
+.contact i {
+  font-size: 2em;
+}

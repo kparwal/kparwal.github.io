@@ -28,8 +28,16 @@ svg {
   box-shadow: 0px 15px 5px;
 }
 
+.project-category {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+.project-name {
+  font-family: 'Roboto', sans-serif !important;
+}
+
 .info-box p {
-  font-size: 20;
+  font-size: 30;
   line-height: 50px;
 }
 
@@ -56,4 +64,8 @@ svg {
 .title {
   margin: auto;
   display: block;
+}
+
+.service-box i {
+  font-size: 3em;
 }

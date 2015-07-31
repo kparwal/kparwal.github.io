@@ -18,9 +18,10 @@ svg {
 
 .info-box {
   margin-left: 10vw;
+  margin-right: 10vw;
   text-align: center;
   background-color: white;
-  width: 80vw;
+  /*width: 80vw;*/
   line-height: 100px;
   font-family: 'Roboto', sans-serif;
   color: #E66F0C;
@@ -51,14 +52,6 @@ svg {
 
 .subtitle {
   margin-bottom: 20px;
-}
-
-.parent2 i {
-  margin-top: 13px;
-}
-
-.parent2 .mask2 i {
-  margin-top: 24px;
 }
 
 .title {
